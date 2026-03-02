@@ -1,0 +1,12 @@
+# Ignorar el entorno virtual (ajusta el nombre si usas otro)
+.venv/
+venv/
+env/
+
+# Ignorar archivos compilados de Python (basura)
+__pycache__/
+*.pyc
+
+# Ignorar variables de entorno (SEGURIDAD)
+.env
+.DS_Store
